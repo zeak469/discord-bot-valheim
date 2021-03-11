@@ -1,0 +1,7 @@
+node_modules
+logfiles
+Backups
+.env
+users.json
+deathlist.txt
+package-lock.json
