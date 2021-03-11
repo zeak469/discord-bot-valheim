@@ -20,7 +20,7 @@ Create users.json file in the following format
 
 # RUN
 
-Once everything is setup, to run, run "npm install" and then "npm run start"
+Once everything is setup, to run, run "npm install" and then "npm start run"
 
 # EXAMPLE 
 
