@@ -21,3 +21,7 @@ Create users.json file in the following format
 # RUN
 
 Once everything is setup, to run, run "npm install" and then "npm run start"
+
+# EXAMPLE 
+
+![](example.jpg)
