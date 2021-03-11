@@ -24,4 +24,4 @@ Once everything is setup, to run, run "npm install" and then "npm run start"
 
 # EXAMPLE 
 
-![](example.jpg)
+![](example1.jpg)
